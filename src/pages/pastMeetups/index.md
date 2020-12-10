@@ -7,6 +7,8 @@ body-en: |-
   * ONE
   * TWO
   * THREE
+
+  ![alt new](/img/annie-spratt-608001-unsplash.jpg)
 body-fr: |-
   Bonjour
 
