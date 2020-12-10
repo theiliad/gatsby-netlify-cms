@@ -13,6 +13,11 @@ body-fr: |-
   * onee
   * twoo
   * three
+
+
+  ```
+  wegewgwegewgewgwegwegweg
+  ```
 seo:
   browserTitle: Past Meetups | JS Wakanda
   description: View the topics that were presented at past JavaScript Montreal meetups.
@@ -25,3 +30,4 @@ Here are some of the subjects we've covered in past meetups. If you're intereste
 * ewgewgwe
 * ewgweg
 * gwe
+  ![]()
