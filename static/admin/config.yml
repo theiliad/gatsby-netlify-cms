@@ -138,7 +138,8 @@ collections:
               default: "past-meetups-page",
             }
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body (English)", name: "body-en", widget: "markdown" }
+          - { label: "Body (French)", name: "body-fr", widget: "markdown" }
           - {
               label: "SEO & Meta",
               name: "seo",
