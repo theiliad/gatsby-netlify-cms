@@ -140,6 +140,7 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body (English)", name: "body-en", widget: "markdown" }
           - { label: "Body (French)", name: "body-fr", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown" }
           - {
               label: "SEO & Meta",
               name: "seo",
