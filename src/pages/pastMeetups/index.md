@@ -63,8 +63,53 @@ body-en: >-
 
 
   Think your brand might need to reshape its online shopping image? We’d love to
-  chat. For more information, email us at
-  [info@mosaic.com](mailto:info@mosaic.com).
+  chat. For more information, email us at <mailto:info@mosaic.com>.
+
+
+
+
+  ```
+
+  const hello = require("hello");
+
+  ```
+
+
+  > Quote here
+
+
+  # h1
+
+
+  <https://google.com>
+
+
+  ## h2
+
+
+  Code snippet
+
+
+  * grsfg
+
+  * rgersrg
+
+  * eg
+
+  * ergerg
+
+  * erg
+
+
+  1. ewgew
+
+  2. gewg
+
+  3. wegweg
+
+  4. ewg
+
+  5. ewgweg
 body-fr: |-
   Bonjour
 
