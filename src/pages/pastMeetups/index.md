@@ -2,125 +2,160 @@
 templateKey: past-meetups-page
 title: Past Meetups
 body-en: >-
-  Brandweek 2020 was unlike any that we’ve experienced in previous years. A
-  fully virtual conference, marketers of all backgrounds, disciplines and
-  industries were able to connect and share ideas that will undoubtedly shape
-  the future of our industry.
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/yIxA3o84syY" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 
 
-  This year was particularly important as it was one of the first major industry
-  gatherings to go digital that brought both agencies and brands together to
-  learn how to navigate an ever-changing consumer landscape.
+
+  ## Strong female voices are echoing across the globe, and brands are taking
+  notice. We’ve had several clients who traditionally target men ask Mosaic for
+  help in sparking conversations with women. These briefs inevitably lead to the
+  same question: how can brands be more relevant to this sought-after and
+  diverse demographic during this wave of women’s empowerment?
 
 
-  Here are some of the most important learnings and how they can be applied to
-  your brand
+
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/XpaOjMXyJGk" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 
 
-  ## The world changes quickly, brands must adapt with it
+
+  If we look for advice from two of the most successful female-focused
+  campaigns, Always’ #LikeAGirl and Dove’s Campaign for Real Beauty, we could
+  deduce that breaking stereotypes is the way to go if you want to capture
+  women’s attention and win industry awards.
 
 
-  2020 has shown our industry that we cannot rely on annual plans. While we can
-  still strategize for the long term, we need to evaluate and adjust in the
-  short-term to adapt to the world as it changes. Nearly every marketer that
-  spoke touched upon the fact that they had to completely scrap or significantly
-  pivot the programs they planned in Q4 2019. Short-term plans and faster
-  turnaround times for campaigns have become the industry standard. In a world
-  where media and culture are “always-on,” marketers need to be agile enough to
-  adapt to overnight changes in social, cultural and business norms.
+  Is breaking stereotypes the winning formula for marketing to women?
+  Alternatively, is breaking stereotypes a marketing trend that needs to be
+  broken? 
 
 
-  ## Have a purpose; be authentic and empathetic
+  If at the end of the day, we’re looking to grow brands and sell products to
+  this audience, which path leads to real success?
 
 
-  Agility is necessary today because consumers want to hear from their favorite
-  brands, even in uncertain times. However, moving quickly will only hurt your
-  brand if it does not have a defined purpose and its tone is not authentic and
-  empathetic.
+  To redefine the negative connotation of doing things “like a girl”, Always
+  asked girls of all ages to write their perceived limitations on boxes and then
+  destroy them, for the world to see.
 
 
-  During their discussion, Frito-Lay VP of Marketing Sadira E. Furlow, Ally
-  Financial Chief Marketing Officer Andrea Brimmer, and DoorDash Vice President
-  of Marketing Kofi Amoo-Gottfried all emphasized the importance of showing up
-  as a human and leading with generosity. This is more important than ever in
-  today’s world, where many need to feel uplifted and need a little extra
-  support.
+  The brand says their campaign is all about highlighting “the sexist undertones
+  of a phrase that many people use without thinking twice, and the effect it can
+  have on girls’ perceptions of themselves and their abilities.” 
 
 
-  Brands that are rooted in kindness and authenticity will be the ones to win
-  long-term. How does this happen? Through the leadership of the marketing team
-  or agency. Marketers today must be the leaders that lead the development of an
-  official brand purpose, if one does not already exist. Agencies must counsel
-  their clients on rooting campaigns in values like kindness, generosity and
-  empathy.
+  By featuring women of all shapes and sizes posing in their underwear, Dove
+  aimed to challenge and redefine traditional beauty standards, urging and
+  empowering women everywhere to embrace what makes them unique. It kick-started
+  a debate about the portrayal of women in the media that continues to this day.
 
 
-  ## Online communities are filling the consumer connection void, giving brands
-  more ways to engage
+  Always’ #LikeAGirl and Dove’s Campaign for Real Beauty were compelling,
+  award-winning, and groundbreaking campaigns. As someone who spent eight years
+  working on Dove and having it be the most important and satisfying work of my
+  career, I am incredibly proud of campaigns like these.
 
 
-  2020 has accelerated the role that digital plays in our lives. With many
-  confined to their homes or choosing to live locally, consumers are looking for
-  connection. Digital communities that offer genuine connection provide a
-  solution – the omnipresent manicured social presence of the 2010s is now
-  causing disconnect. Channels that offer direct, genuine connection like Reddit
-  are having their moment.
+  That said when I look at the lists of the most successful campaigns that
+  market to women, almost every one centers around breaking stereotypes. Why?
+  Because if every campaign geared at women takes the same approach, doesn’t it
+  start to become inauthentic and redundant?
 
 
-  The platform saw a significant increase in users when the pandemic started.
-  Sub-Reddit pages moderated by topical experts (the COVID page is moderated by
-  epidemiologists), so there is a high level of trust and engagement among
-  users. The channel is also a source of entertainment. Chief Operating Offier
-  Jen Wong noted that those who came for information about how to stay safe at
-  the start of the pandemic ended up staying for entertainment and connection.
-  With a low barrier to entry for brand creative, Wong also pointed out that
-  Reddit users welcome brands with an authentic message to the conversation.
+  I hypothesize that marketers feel they need to fight stereotypes or reveal a
+  weakness around women in society to break through. Yes, this approach garners
+  attention and tackles vital issues, but it can also be a red herring and
+  detract from what every brand is actually trying to do – sell a product. Dove
+  experienced this firsthand when I was still on the business. Brand equity
+  scores were through the roof, but product sales didn’t follow until Dove
+  revised the campaign to take on a more functional and product-forward
+  approach.
 
 
-  Does your brand want to have an authentic, meaningful discussion with
-  customers? Actively participating by creating a community, facilitating AMA
-  discussions or commenting on relevant sub-Reddits will connect all that are
-  passionate about your brand’s mission.
+  Remembering this, I began to search for campaigns that were more product
+  focused for comparison. Although harder to find, here are two examples of
+  campaigns that stand out and put their product first.
 
 
-  ## There is no room for error when it comes to diversity and inclusion or
-  multicultural representation.
+
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/8MgADRovxuU" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 
 
-  Diversity and inclusion was a part of nearly every Brandweek discussion,
-  making it clear that there is no room for error with organization D&I
-  practices and multicultural representation in marketing.
+
+  ## “Reitmans. Really?”
 
 
-  As with all marketing, diversity, inclusion and multicultural representation
-  must be meaningful and authentic to the brand. DoorDash’s Kofi Amoo-Gottfried
-  pointed out that companies need to do what they can with what they have. In an
-  effort to lift up black entrepreneurs, DoorDash partnered with NBA players
-  restarting the season in Orlando to highlight black-owned restaurants in their
-  home team cities.
+  Reitmans needed to change the bias against their brand and convince consumers
+  that it’s possible to find trendy and fashionable clothing at Reitmans.
 
 
-  Another common thread among all conversations was that representation must be
-  prevalent in the entire marketing supply chain – the industry overall needs to
-  improve how it recruits and retains employees of color. P&G’s Marc Pritchard
-  said, “true diversity and inclusion fosters innovation and problem solving
-  because people are allowed to bring their whole selves to work.”
+  They launched anonymously at Montreal’s Fashion week, showcasing their clothes
+  without publishing their brand and asked women where they think the clothes
+  were from. Most guessed big fashion houses and renowned retailers before being
+  told the truth: Reitmans. Their responses were, as we had anticipated,
+  “Really?”
 
 
-  It’s important to know that while there is no room for error with diversity,
-  inclusion and representation, everyone realizes that this might be new
-  territory for some marketers. As Amoo-Gottfried said, this work will take a
-  lifetime.
+  Videos of the exploit broadcasted on TV and online in both languages and the
+  stunt helped to create momentum leading up to the big reveal of Reitmans’ new
+  ambassador. The public was finally introduced to Meghan Markle a few weeks
+  later, with a TV commercial, web placements, out-of-home billboards, and
+  in-store fashion advertising material. The humorous TV spot featured women
+  struggling to get a peek at the labels on Meghan’s fabulous clothing and ended
+  with Meghan informing them her outfit came from Reitmans—really. During each
+  wave of the campaign, sales increased 69.6% and 72.8% respectively, and
+  Meghan’s involvement achieved 18m impressions.
 
 
-  ## Remember: 2020 Still Counts
+
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/KkIsB4O_d_E" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 
 
-  2020 should not be a year with an asterisk – as an industry, we have evolved.
-  Now, we must push our industry to continue to be more agile, empathetic and
-  progressive. The brand that weaves learnings from 2020 into its future
-  strategy is the brand that will win in the hearts and minds of consumers in
-  the future.
+
+  ## Make History – Jim Beam
+
+
+  “Whiskey and Women” was the research project that led to a new positioning for
+  Jim Beam. “We found that 30% of the growth was coming from women” reported
+  Rebecca Messina, SVP/global CMO for Beam Suntory. “In a beverage category
+  where no one was talking about [or showing] women,” Jim Beam brought in
+  actress Mila Kunis to carry the narration.
+
+
+  The TV spot shows Mila branding Jim Beam barrels to celebrate the
+  craftsmanship of bourbon and the “quality of the liquid,” according to the
+  brand, which is aged for twice as long as the law requires for a Kentucky
+  straight bourbon. Jim Beam is launching a second Mila Kunis ad in an effort to
+  reach the expanding number of 18-34 whiskey drinkers after seeing 43% growth
+  in the year following the launch of its “Make History” campaign.
+
+
+  You may not be familiar with these two campaigns because they didn’t win the
+  same awards as Dove and Always but do you think they were as impactful? Their
+  case studies say yes. They both blew the doors off their sales and growth
+  targets, but they did not raise the same levels of awareness.
+
+
+  One could argue that both of the product-focused examples did, in their own
+  way, break stereotypes. Reitmans changed the bias towards their brand, and Jim
+  Beam was the first to talk to women in a primarily male category.
+
+
+  So my question remains. Is a focus on breaking stereotypes the winning formula
+  for marketing to women? Or in the spirit of 2019, is it time to break new
+  ground and ditch the stereotypes all together? It will be interesting to watch
+  where the trend takes us this year.
 body-fr: |-
   Bonjour
 
