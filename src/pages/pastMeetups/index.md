@@ -14,7 +14,7 @@ body-en: >-
 
 
   Here are some of the most important learnings and how they can be applied to
-  your brand:
+  your brand
 
 
   ## The world changes quickly, brands must adapt with it
